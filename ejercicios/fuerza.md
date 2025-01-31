@@ -20,3 +20,13 @@ Los ejercicios de fuerza son entrenamientos musculares en los que se utilizan di
 6. Aumentar la intensidad gradualmente
 7. Evitar la hiperventilación
 8. Dejar de hacer el ejercicio si se siente dolor
+
+## Consejos
+- Utiliza agarre prono.
+- Utiliza distintos instrumentos para el agarre.
+- Haz resbalar la barra por la tibia en el peso muerto.
+- Prioriza los ejercicios básicos.
+- Haz mas series pesadas.
+- Mantén la respiración.
+- Retracción escapular.
+- Baja hasta el final.
