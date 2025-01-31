@@ -18,3 +18,11 @@ Los ejercicios de flexibilidad son entrenamientos que se realizan para mejorar l
 4. Mantén el estiramiento durante 10 a 30 segundos.
 5. Repite el estiramiento 2 a 4 veces.
 6. Estira los principales grupos musculares.
+
+## Consejos
+- Precalienta con actividad ligera de 5 a 10 minutos.
+- Respira normalmente y expulsa el aire lentamente por la boca.
+- Mantén el estiramiento durante 10 a 30 segundos.
+- Repite el estiramiento 2 a 4 veces de ambos lados.
+- No rebotes, ya que esto puede lesionarte.
+- No tengas como objetivo sentir dolor, solo tensión.
