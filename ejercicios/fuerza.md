@@ -10,3 +10,13 @@ Los ejercicios de fuerza son entrenamientos musculares en los que se utilizan di
 - Mejora la salud mental.
 - Reduce el riesgo de sufrir enfermedades cardiovasculares y diabetes.
 - Combate efectos del envejecimiento como la sarcopenia.
+
+## Instrucciones
+1. Iniciar con un peso adecuado
+2. Adoptar una postura correcta
+3. Respirar
+4. Buscar el equilibrio
+5. Descansar
+6. Aumentar la intensidad gradualmente
+7. Evitar la hiperventilación
+8. Dejar de hacer el ejercicio si se siente dolor
