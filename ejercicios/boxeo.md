@@ -21,3 +21,11 @@ Deporte que consiste en la lucha a puñetazos de dos contendientes, de conformid
 5. No se admiten golpes bajos .
 6. No se deben causar tropiezos..
 7. No se deben dar cabezazos intencionalmente.
+
+## Consejos
+- Permanece hidratado
+- Mantente calmado
+- Aprende a controlar tu respiración
+- Nunca bajes la guardia
+- Concéntrate en tu mirada
+- Protégete adecuadamente
