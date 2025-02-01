@@ -12,3 +12,11 @@ CrossFit es un sistema de entrenamiento físico de alta intensidad que combina e
 - Aporta concentración y motivación extra.
 - Reduce el nivel de estrés.
 - Aumenta las relaciones sociales.
+
+## Instrucciones
+1. Aprende y perfecciona los ejercicios del WOD
+2. Mantén la espalda neutra
+3. Mantén los codos elevados
+4. Exhala en la sentadilla y en el push
+5. Agarra bien la barra en todo el recorrido
+
