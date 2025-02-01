@@ -6,3 +6,9 @@ El pilates es un método de ejercicio que consiste en movimientos controlados de
 ## Beneficios
 Una revisión sistemática del 2022 sobre pilates entre adultos mayores detalló los beneficios, los cuales incluyeron desarrollar la fuerza de las extremidades inferiores, aumentar la estabilidad del tronco, prevenir caídas, mejorar el sueño y ayudar al bienestar emocional.
 
+## Instrucciones
+1. Concentrarse en la ejecución de los movimientos
+2. Controlar los músculos estabilizadores
+3. Realizar los movimientos de manera fluida, precisa y controlada
+4. Respirar de acuerdo al patrón respiratorio de cada ejercicio
+5. Controlar el cuerpo para introducir nueva información al cerebro
