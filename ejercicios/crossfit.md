@@ -20,3 +20,12 @@ CrossFit es un sistema de entrenamiento físico de alta intensidad que combina e
 4. Exhala en la sentadilla y en el push
 5. Agarra bien la barra en todo el recorrido
 
+## Consejos
+- Márcate retos y ve superándote día a día. No compitas con los demás, sino contigo mismo.
+- Sé realista.
+- Pregunta todas las dudas que tengas.
+- Cuida tu alimentación.
+- Ve a divertirte.
+- Ten paciencia.
+- No olvides tu descanso.
+
