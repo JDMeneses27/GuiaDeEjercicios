@@ -12,3 +12,13 @@ Una revisión sistemática del 2022 sobre pilates entre adultos mayores detalló
 3. Realizar los movimientos de manera fluida, precisa y controlada
 4. Respirar de acuerdo al patrón respiratorio de cada ejercicio
 5. Controlar el cuerpo para introducir nueva información al cerebro
+
+## Consejos
+- Encuentra un instructor cualificado.
+- Comienza con ejercicios básicos.
+- Escucha a tu cuerpo.
+- Practica regularmente.
+- Mantén una respiración adecuada. 
+- Presta atención a la alineación.
+- No te preocupes por la apariencia. 
+- Escucha tu mente y tu cuerpo.
